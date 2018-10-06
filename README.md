@@ -135,3 +135,5 @@ data/bensound-thejazzpiano.mp3
 * ConvRNN : [*Convolutional Recurrent Neural Networks for Music Classification*](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=ZrqdSu4AAAAJ&sortby=pubdate&citation_for_view=ZrqdSu4AAAAJ:ULOm3_A8WrAC), Keunwoo Choi, George Fazekas, Mark Sandler, Kyunghyun Cho, arXiv:1609.04243, 2016
 
 * Test music items are from [http://www.bensound.com](http://www.bensound.com).
+
+* Deep Learning : [*10 Audio Processing Tasks to get you started with Deep Learning Application*](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
